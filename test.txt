@@ -2,3 +2,4 @@ this is sample test run for jenkins project
 Differences between top level agents and stage level agents
 There are some nuances when adding an agent to the top level or a stage level when the options directive is applied. 
 Check the section options for more information.
+Sections in Declarative Pipeline typically contain one or more Directives or Steps.
